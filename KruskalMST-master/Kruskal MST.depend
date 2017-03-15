@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1489479805 source:c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\edge.cpp
+	"Edge.h"
+
+1489479752 c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\edge.h
+
+1489484742 source:c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\test.cpp
+	"Test.h"
+
+1489441032 c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
+1489527809 source:c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\main.cpp
+	<iostream>
+	"Edge.h"
+	"Test.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<map>
+	<vector>
+
+1489481503 source:c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\src\graph.cpp
+	"Graph.h"
+
+1489483126 c:\users\daniela\downloads\kruskalmst-master\kruskalmst-master\include\graph.h
+
